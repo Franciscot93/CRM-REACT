@@ -1,0 +1,41 @@
+{
+  "clientes": [
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "juanito"
+    },
+    {
+      "nombre": "Josue",
+      "empresa": "xmas SRL",
+      "email": "josue@juan.com",
+      "telefono": "31983913",
+      "notas": "fafafa",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "coca-cola"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "CNN SRL"
+    },
+    {
+      "nombre": "francisco",
+      "empresa": "3asd55g20qq2",
+      "email": "asdasd@gasdas.com",
+      "telefono": "123441255",
+      "notas": "fef",
+      "id": 6
+    }
+  ]
+}
